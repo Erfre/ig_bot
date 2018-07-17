@@ -1,0 +1,11 @@
+{
+
+    "instagram":
+    [
+        {"username":"test", "password":"test", "subreddit":"test",
+          "tags":["test", "test1", "test2"], "similar_accounts":["test1","test2","test4"]},
+        {"username":"test", "password":"test", "subreddit":"test", "similar_accounts":["test1","test2","test4"]}
+    ],
+    "static_path":"",
+    "db_path": ""
+}
